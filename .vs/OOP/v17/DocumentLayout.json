@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7760E7-9364-45BF-8DBD-9C4FA9B6BFCB}|LAB1.2.2\\LAB1.2.2.csproj|c:\\users\\nguyen.cao\\desktop\\codec\u002B\u002B\\oop\\baitaptrenlms\\lab1.1\\lab1.2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7760E7-9364-45BF-8DBD-9C4FA9B6BFCB}|LAB1.2.2\\LAB1.2.2.csproj|solutionrelative:lab1.2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144AA762-473D-43D0-A3C8-9694185F5F82}|LAB1.2\\LAB1.2.1.csproj|C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\lab1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144AA762-473D-43D0-A3C8-9694185F5F82}|LAB1.2\\LAB1.2.1.csproj|solutionrelative:lab1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144AA762-473D-43D0-A3C8-9694185F5F82}|LAB1.2\\LAB1.2.csproj|C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\lab1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144AA762-473D-43D0-A3C8-9694185F5F82}|LAB1.2\\LAB1.2.csproj|solutionrelative:lab1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LAB1.2.2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5907736A-AC6D-4494-BC32-EE33FD931AE4}|OOP\\LAB1.1.csproj|C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5907736A-AC6D-4494-BC32-EE33FD931AE4}|OOP\\LAB1.1.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\ConsoleApp1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5907736A-AC6D-4494-BC32-EE33FD931AE4}|OOP\\LAB1.1.csproj|C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\oop\\filetest.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5907736A-AC6D-4494-BC32-EE33FD931AE4}|OOP\\LAB1.1.csproj|solutionrelative:oop\\filetest.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\LAB1.2\\Program.cs",
+              "RelativeDocumentMoniker": "LAB1.2\\Program.cs",
+              "ToolTip": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\LAB1.2\\Program.cs",
+              "RelativeToolTip": "LAB1.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAABAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:49:41.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB1.2.2",
+              "DocumentMoniker": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\LAB1.2.2\\LAB1.2.2.csproj",
+              "RelativeDocumentMoniker": "LAB1.2.2\\LAB1.2.2.csproj",
+              "ToolTip": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\LAB1.2.2\\LAB1.2.2.csproj",
+              "RelativeToolTip": "LAB1.2.2\\LAB1.2.2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-26T07:46:21.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\LAB1.2.2\\Program.cs",
+              "RelativeDocumentMoniker": "LAB1.2.2\\Program.cs",
+              "ToolTip": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\LAB1.2.2\\Program.cs",
+              "RelativeToolTip": "LAB1.2.2\\Program.cs",
+              "ViewState": "AgIAAJsBAAAAAAAAAAD4v64BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:11:59.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\ConsoleApp1\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class1.cs",
+              "ToolTip": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\ConsoleApp1\\Class1.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:54:45.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:30:01.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\LAB1.2\\Program.cs",
+              "RelativeDocumentMoniker": "LAB1.2\\Program.cs",
+              "ToolTip": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\LAB1.2\\Program.cs",
+              "RelativeToolTip": "LAB1.2\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwAABAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:23:37.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fileTest.txt",
+              "DocumentMoniker": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\OOP\\fileTest.txt",
+              "RelativeDocumentMoniker": "OOP\\fileTest.txt",
+              "ToolTip": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\OOP\\fileTest.txt",
+              "RelativeToolTip": "OOP\\fileTest.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-09T03:37:25.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\nguyen.cao\\Desktop\\codec\u002B\u002B\\oop\\baiTapTrenLMS\\lab1.1\\OOP\\Program.cs",
+              "RelativeToolTip": "OOP\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowO0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:04:03.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
